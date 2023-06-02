@@ -1,22 +1,22 @@
-En entorno local:
-Crear proyecto:
+local environment:
+build project
 
-C:\Users\jonat>D:
+C:\Users\XXXXX>D:
 
-D:\>cd D:\Programacion\ProjectosDjango
+D:\>cd D:\Programacion\Projects_Django
 
-D:\Programacion\ProjectosDjango>
-D:\Programacion\ProjectosDjango>django-admin startproject "Nombre del proyecto sn comillas"
-D:\Programacion\ProjectosDjango>cd Proyecto 1
-#Muestra todas las cosas que puedo hacer con manage.py:
-D:\Programacion\ProjectosDjango\Proyecto1>python manage.py help
-D:\Programacion\ProjectosDjango\Proyecto1>python manage.py migrate #y aparece la base de datos sql en la carpeta Proyecto1
+D:\Programacion\Projects_Django>
+D:\Programacion\Projects_Django>django-admin startproject "Nombre del proyecto en comillas"
+D:\Programacion\Projects_Django>cd Proyect 1
 
-Comandos GitHub desde terminal de VSC:
+D:\Programacion\ProjectosDjango\Proyect1>python manage.py help #Muestra todas las cosas que puedo hacer con manage.py
+D:\Programacion\ProjectosDjango\Proyect1>python manage.py migrate #the SQL database appears in Proyect 1
+
+GitHub from VSC:
 >git add .
 >git commit
 
-#A esto lo pongo en la q se abre chiquita:
+and then
 i
 "nombre commit"
 escape
